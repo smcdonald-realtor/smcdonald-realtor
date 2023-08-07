@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smcdonald-realtor
+- 👋 Hi, I’m @smcdonald
 - 👀 I’m interested in art, reading, real estate etc.
 - 🌱 I’m currently studying Computer Science
 - 💞️ I’m looking to collaborate on all things AI 
